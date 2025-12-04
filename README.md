@@ -23,6 +23,7 @@
 
 ### Credits
 - Researcher: `Shubham S. Thorat`
+- Organization: `Payatu Security Consulting Pvt. Ltd.`
 
 
 ## 📜 References
