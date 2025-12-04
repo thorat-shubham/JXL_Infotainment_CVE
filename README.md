@@ -25,7 +25,7 @@ This vulnerability affects **<affected devices/versions>** when **<scenario or t
 - Executable or service responsible for Bluetooth HID device connections
 
 ### 🎯 Attack Vector
-- <Remote>  
+ 
 - Short An attacker within Bluetooth range can emulate a malicious HID device. Due to minimal pairing security (simple    Yes/No    confirmation), the device is accepted as a keyboard. Once connected, the attacker can inject arbitrary keystrokes to open browsers, visit    malicious sites, or trigger infotainment functions without user consent
 
 
