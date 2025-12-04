@@ -1,1 +1,1 @@
-# JXL_Infotainment_CVE
+#CVE-2025-63896
