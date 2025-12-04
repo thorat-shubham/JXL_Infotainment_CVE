@@ -1,7 +1,9 @@
 # CVE-2025-63896
 
 ## ⚔️ Attack Name
-**< Wireless Key Stroke Injection on JXL Infotainment >**
+### <span style="color:#2ECC71; font-weight:bold;">
+Wireless Keystroke Injection on JXL Infotainment
+</span>
 
 ---
 
