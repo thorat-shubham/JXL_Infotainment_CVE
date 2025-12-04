@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Additional Details (Optional Sections)
+## 📂 Additional Details 
 
 ### Afftected product
 - < JXL 9 Inch Car Android Double Din Player - Android version 12.0 >
